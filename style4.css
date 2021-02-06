@@ -1,0 +1,10 @@
+label[for="visitante"] {
+    color: #FF0000;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+input[type="text"]
+{
+    background-color: #adff2f;
+}
